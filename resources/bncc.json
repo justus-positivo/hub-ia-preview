@@ -1,0 +1,53 @@
+[
+    {
+      "title": "LEITURA E COMPREENSÃO",
+      "itens": [
+        {
+          "code": "EF15LP01",
+          "range": "EF1",
+          "description": "Reconhecer e nomear letras do alfabeto e associá-las ao som correspondente."
+        },
+        {
+          "code": "EF15LP02",
+          "range": "EF1",
+          "description": "Identificar elementos da estrutura narrativa em histórias lidas ou ouvidas (personagens, tempo, espaço, enredo)."
+        },
+        {
+          "code": "EF15LP03",
+          "range": "EF1",
+          "description": "Inferir o sentido de palavras e expressões desconhecidas, com base no contexto."
+        }
+      ]
+    },
+    {
+      "title": "PRODUÇÃO TEXTUAL",
+      "itens": [
+        {
+          "code": "EF15LP04",
+          "range": "EF1",
+          "description": "Planejar e produzir textos de diferentes gêneros com base em modelos e objetivos comunicativos diversos."
+        },
+        {
+          "code": "EF15LP05",
+          "range": "EF1",
+          "description": "Revisar textos com base em critérios de clareza, coerência e correção gramatical, com apoio do professor."
+        }
+      ]
+    },
+    {
+      "title": "ORALIDADE E INTERAÇÃO",
+      "itens": [
+        {
+          "code": "EF15LP06",
+          "range": "EF1",
+          "description": "Participar de situações de intercâmbio oral, respeitando turnos de fala, escutando os outros com atenção e respondendo adequadamente."
+        },
+        {
+          "code": "EF15LP07",
+          "range": "EF1",
+          "description": "Relatar experiências, fatos e opiniões, organizando as ideias com começo, meio e fim."
+        }
+      ]
+    }
+  ]
+  

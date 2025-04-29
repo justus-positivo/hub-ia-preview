@@ -1,0 +1,65 @@
+[
+    {
+        "nivel": "Tradicional",
+        "descricao": "Transmitir conteúdo de forma direta, com foco na memorização e repetição de informações. Ênfase em exposições orais, leitura de textos e resolução de exercícios padronizados.",
+        "exemplos_de_atividades": [
+            "Aula expositiva com anotações",
+            "Leitura e cópia do conteúdo",
+            "Execução de exercícios do livro"
+        ]
+    },
+    {
+        "nivel": "Lembrar",
+        "descricao": "Recuperar informações previamente aprendidas, como fatos, definições e conceitos.",
+        "exemplos_de_atividades": [
+            "Listar os principais fatos históricos de um período",
+            "Definir termos científicos",
+            "Recitar fórmulas matemáticas"
+        ]
+    },
+    {
+        "nivel": "Compreender",
+        "descricao": "Entender e interpretar o significado das informações recebidas.",
+        "exemplos_de_atividades": [
+            "Explicar com suas próprias palavras o conteúdo de um texto",
+            "Resumir uma teoria em um diagrama",
+            "Interpretar gráficos e tabelas"
+        ]
+    },
+    {
+        "nivel": "Aplicar",
+        "descricao": "Usar informações em novas situações práticas e resolver problemas usando conhecimento adquirido.",
+        "exemplos_de_atividades": [
+            "Resolver problemas usando fórmulas aprendidas",
+            "Aplicar regras gramaticais em uma redação",
+            "Executar um experimento seguindo um protocolo"
+        ]
+    },
+    {
+        "nivel": "Analisar",
+        "descricao": "Examinar as partes que compõem uma informação ou situação, compreendendo as relações entre elas.",
+        "exemplos_de_atividades": [
+            "Comparar diferentes abordagens de um problema",
+            "Identificar causas e consequências em eventos históricos",
+            "Analisar argumentos em um debate"
+        ]
+    },
+    {
+        "nivel": "Avaliar",
+        "descricao": "Emitir julgamentos com base em critérios e padrões, considerando o valor, validade ou lógica das ideias.",
+        "exemplos_de_atividades": [
+            "Criticar um ponto de vista com base em evidências",
+            "Justificar a escolha de uma solução para um problema",
+            "Avaliar a eficácia de uma campanha publicitária"
+        ]
+    },
+    {
+        "nivel": "Criar",
+        "descricao": "Produzir algo novo ou reorganizar informações de forma original.",
+        "exemplos_de_atividades": [
+            "Elaborar um projeto interdisciplinar",
+            "Criar um roteiro de teatro ou vídeo",
+            "Inventar uma solução para um desafio real"
+        ]
+    }
+]
